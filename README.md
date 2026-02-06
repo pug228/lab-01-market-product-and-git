@@ -18,7 +18,7 @@ Along the way, you'll practice using `Git` and `GitHub` — essential tools for 
 <!-- no toc -->
 - [Learning outcomes](#learning-outcomes)
 - [Learning advice](#learning-advice)
-- [Tasks overview](#tasks-overview)
+- [Tasks overview](#tasks-overview) 
 - [Tasks](#tasks)
 
 ## Learning advice
